@@ -1,7 +1,7 @@
 # EX-06 - Looping
-NAME : KABIRA A
+NAME : DAKSHINA MOORTHY N D
 
-REG NO : 212224040146
+REG NO : 212224230049
 
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
